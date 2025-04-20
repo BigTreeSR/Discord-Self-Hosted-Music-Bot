@@ -1,0 +1,5 @@
+When user puts in a url the bot will respond with the title of track when it says its playing it or adding to queue
+Add track lengths to the queue menu
+Make it so the users can choose the right option when searching songs, make sure their options include the uploader of said content, track length, and track title
+Also fucking make sure everything isn't in one file faggot
+implement search algorithim
